@@ -1,0 +1,84 @@
+.contener-texto-redacao {
+    background: #000;
+    color: white;
+
+}
+
+.textos-isibisao {
+    margin: 0 20%;
+}
+
+.textos-isibisao h2 {
+    font-size: 25px;
+    padding: 20px;
+
+}
+
+.textos-isibisao p {
+    padding: 10px;
+    font-size: 20px;
+}
+
+@media (max-width: 2626px) {
+
+    .textos-isibisao p {
+        padding: 5px;
+    }
+    .textos-isibisao {
+        margin: 0 26%;
+    }
+}
+
+.textos-isibisao h3 {
+    font-size: 20px;
+    padding: 20px;
+}
+
+
+
+
+
+@media (max-width: 999px) {
+
+    .img-js {
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .img-js img {
+        margin-left: 20px;
+    }
+}
+
+
+
+.img-js {
+    padding: 20px;
+    margin-left: 1px;
+
+}
+
+.img-js img {
+    margin-left: 50px;
+}
+
+
+.list-pr{
+    list-style: none;
+    display: contents;
+}
+
+.list-pr li {
+    letter-spacing: 3px;
+    margin-top: 15px;
+}
+
+
+.sobre-as-materias{
+    background: #000;
+    color: white;
+    padding-left: 60px;
+    font-size: 30px;
+}
